@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Mateo Monsalve</h1>
-<h3 align="center">Desarrollador Jr Full Stack de Colombia</h3>
+<h3 align="center">Desarrollador Jr Full Stack de Colombia ⚡</h3>
 
-Soy desarrollador Jr Full-Stack con conocimientos en JavaScript - NodeJS - Express - PostgreSQL - Sequelize - React - Redux - HTML - CSS.
-Con mucho entusiasmo de seguir aprendiendo nuevas habilidades y perfeccionando las aprendidas, actualmente me encuentro realizando proyectos personales para reforzar mis conocimientos.
+🌱Con mucho entusiasmo de seguir aprendiendo nuevas habilidades y perfeccionando las aprendidas, actualmente me encuentro realizando proyectos personales para reforzar mis conocimientos.
 
 Me considero una persona altamente responsable y disciplinada, con deseo constante de seguir creciendo como persona y aportar a mi empresa y equipo de trabajo lo mejor de mí, siempre buscando lo mejor para éste.
 
